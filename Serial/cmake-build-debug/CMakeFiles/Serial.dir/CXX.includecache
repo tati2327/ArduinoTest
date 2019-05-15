@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tati2327/Documentos/GITHUB/P2/Tati/Serial/main.cpp
+iostream
+-
+string
+-
+unistd.h
+-
+
